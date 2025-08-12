@@ -13,10 +13,11 @@ This project is part of my **45-Day Data Science Challenge**.
 
 
 
-### 💾 Files in this Repo
-- **titanic_clean.csv** – cleaned dataset
-- **Day1_Titanic_Cleaning.ipynb** – Jupyter Notebook with cleaning steps
-- **README.md** – project documentation
-
----
-**Author:Lavnesh kumar
+# Day 2 – Boston Housing Linear Regression 🏠
+📅 Date: 11 August 2025  
+- Loaded Boston Housing dataset  
+- Performed EDA (target histogram)  
+- Split into training/testing sets  
+- Trained Linear Regression model (R² = 0.668, RMSE = 4.92)  
+- Visualized Actual vs Predicted prices  
+- Tested model with random unseen data from test set
